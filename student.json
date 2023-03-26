@@ -1,0 +1,38 @@
+{
+  "student": {
+    "name": "John",
+    "surname": "Doe",
+    "age": 21,
+    "course": "QA Automation",
+    "monthlyFee": 200,
+    "isRankOk": true,
+    "contacts": [
+      {
+        "email": "jdoe@gmail.com",
+        "isPrimary": true
+      },
+      {
+        "cellphone": "+1234567890",
+        "isPrimary": false
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/johndoe",
+        "isPrimary": false
+      }
+    ],
+    "isOpenToWork": true,
+    "isRecommended": true,
+    "teammates": [
+      {
+        "name": "Sarah",
+        "surname": "Brown",
+        "course": "Frontend"
+      },
+      {
+        "name": "Mark",
+        "surname": "Parker",
+        "course": "Backend"
+      }
+    ]
+  }
+}
