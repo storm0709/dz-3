@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<student>
+		<name>John</name>
+		<surname>Doe</surname>
+		<age>21</age>
+		<course>QA Automation</course>
+		<monthlyFee>200</monthlyFee>
+		<isRankOk>true</isRankOk>
+		<contacts>
+			<contact>
+				<email>jdoe@gmail.com</email>
+				<isPrimary>true</isPrimary>
+			</contact>
+			<contact>
+				<cellphone>+1234567890</cellphone>
+				<isPrimary>false</isPrimary>
+			</contact>
+			<contact>
+				<linkedin>https://www.linkedin.com/in/johndoe</linkedin>
+				<isPrimary>false</isPrimary>
+			</contact>
+		</contacts>
+		<isOpenToWork>true</isOpenToWork>
+		<isRecommended>true</isRecommended>
+		<teammates>
+			<teammate>
+				<name>Sarah</name>
+				<surname>Brown</surname>
+				<course>Frontend</course>
+			</teammate>
+			<teammate>
+				<name>Mark</name>
+				<surname>Parker</surname>
+				<course>Backend</course>
+			</teammate>
+		</teammates>
+	</student>
+</root>

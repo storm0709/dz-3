@@ -1,0 +1,33 @@
+student:
+    name: John
+    surname: Doe
+    age: 21
+    course: QA Automation
+    MonthlyFee: 200
+    isRankOk: true
+    contacts:
+        -  "email"
+        -  "cellphone"
+        -  "linkedin" 
+    contactDetails:
+        contact1:
+            email: jdoe@gmail.com
+            isPrimary: true
+        contact2:
+            cellphone: +1234567890
+            isPrimary: false
+        contact3:      
+            linkedin: https://www.linkedin.com/in/johndoe
+            isPrimary: false
+    isOpenToWork: true
+    isRecommended: true
+    teammates: [Sarah, Mark]
+    teammatesDetails: 
+        teammate1: 
+            name: Sarah
+            surname: Brown
+            course: Frontend
+        teammate2:
+            name: Mark
+            surname: Parker
+            course: Backend
